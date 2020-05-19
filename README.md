@@ -1,0 +1,2 @@
+# Analysis-Of-Arbitrage-Opportunities-Between-Cryptocurrencies-Using-Statistical-Methods
+Explored the correlations between 13 hottest cryptocurrencies as of March 7, 2019 to exploit the results for arbitrage opportunities. Using data driven approach and statistical modeling , successfully determined how the prices of one cryptocurrencies are affected by each other and how these techniques can be used to derive unique insights which can be used to find arbitrage opportunities.
